@@ -1,0 +1,16 @@
+go run main.go
+
+input ur origin rat file ex. stub.exe
+input the file name of the output that fudded ex. stub.c.exe
+
+or 
+
+
+go build main.go
+main.exe
+
+input ur origin rat file ex. stub.exe
+input the file name of the output that fudded ex. stub.c.exe
+
+
+Hope you have a nice day man
